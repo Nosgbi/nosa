@@ -1,0 +1,13 @@
+.first-container{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.next-container{
+    margin-left: 50%;
+    background-color: azure;
+}
+
+.last-container{
+    margin-left: 50%;
+}
